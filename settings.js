@@ -61,8 +61,8 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Africa,Kenya,Nairobi" //ur location
 
 //bot bomdy 
-global.owner = ['254794286079']
-global.ownertag = '254794286079' //ur tag number
+global.owner = ['254702547209']
+global.ownertag = '254702547209' //ur tag number
 global.botname = 'NONESENCE' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
